@@ -12,6 +12,8 @@ This application simplifies invoice creation with an intuitive interface.  Easil
 
 *   📝 Intuitive Modal: User-friendly modal interface for easy data entry.
 
+*   ⬇️ PDF Generation: Convert invoice data to PDF seamlessly using jspdf-react. Download and share.
+
 *   ⚛️ React-Powered: Built with React for a smooth and responsive experience.
 
 *   🚀 Efficient & Flexible: Simplify your invoicing and save time.
