@@ -26,9 +26,7 @@ Built with React and jspdf, this application allows you to quickly create profes
 
 - jspdf-react 📄
 
-- Getting Started:
-
-Bash
+#  Getting Started:
 
 # Clone the repository
 
